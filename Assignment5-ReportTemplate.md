@@ -17,7 +17,7 @@
 
 # Assessment Using Reliability Demonstration Chart 
 
-# 
+## Explain your evaluation and justification of how you decide the MTTFmin
 
 # Comparison of Results
 
