@@ -24,6 +24,7 @@ To pinpoint the MTTFmin, a sensitivity analysis was performed on the available f
 
 Through this analysis, we found that an MTTF of 2 units kept the observed failures within the RDC's accept region, suggesting this as the system's minimum reliable operational interval. An MTTF of 1 unit, which pushed the failure line into the reject region, was deemed too frequent and therefore unacceptable. On the other hand, an MTTF of 4 units, which maintained the failure line within the accept region, indicated a more robust than necessary reliability level.
 
+
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
